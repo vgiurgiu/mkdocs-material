@@ -127,13 +127,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting started: getting-started.md
-  - Extensions:
-    - Admonition: extensions/admonition.md
-    - CodeHilite: extensions/codehilite.md
-    - Footnotes: extensions/footnotes.md
-    - Metadata: extensions/metadata.md
-    - Permalinks: extensions/permalinks.md
-    - PyMdown: extensions/pymdown.md
+  - homeboy:
+    - Admonition: homeboy/admonition.md
+    - CodeHilite: homeboy/codehilite.md
+    - Footnotes: homeboy/footnotes.md
+    - Metadata: homeboy/metadata.md
+    - Permalinks: homeboy/permalinks.md
+    - PyMdown: homeboy/pymdown.md
   - Plugins:
     - Search: plugins/search.md
     - Minification: plugins/minification.md
